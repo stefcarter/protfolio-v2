@@ -1,0 +1,41 @@
+body {
+    
+}
+
+header {
+    color: white;
+    margin-left: 20vh;
+    margin-top: 10vh;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 6em;
+}
+
+h3 {
+    font-size: 4em;
+}
+
+#bg img {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+    z-index:-1;
+}
+
+.navbar {
+    font-size: xx-large;
+}
+
+.nav-item {
+    margin-left: 30px;
+}
