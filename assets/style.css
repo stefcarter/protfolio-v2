@@ -116,3 +116,15 @@ img.bg {
     border-radius: 10px;
     box-shadow: 8px 8px 2px 1px rgba(234, 234, 238, 0.2);
 }
+
+.footerEl {
+    font-size: .8em;
+    color: gray;
+    margin-left: 10vh;
+    margin-top: 10vh;
+    max-width: 100vh;
+}
+
+footer a {
+    color: gray;
+}
