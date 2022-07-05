@@ -4,7 +4,7 @@ body {
 
 header {
     color: white;
-    margin-left: 20vh;
+    margin-left: 10vh;
     margin-top: 10vh;
 }
 
@@ -28,7 +28,7 @@ h4 {
 
 .bodyText {
     color: white;
-    margin-left: 20vh;
+    margin-left: 10vh;
     margin-top: 10vh;
     max-width: 100vh;
 }
@@ -44,11 +44,75 @@ img.bg {
     z-index:-1;
   }
 
+.tagLine {
+    width: 50vh;
+    margin-top: -150px;
+}
+
+/* .fillerEl {
+    margin-top: 50px;
+} */
+
+.selfEl {
+    margin-left: 500px;
+    position: relative;
+    height: 20vh;
+    width: 15vh;
+    border-radius: 10px;
+    box-shadow: 8px 8px 2px 1px rgba(234, 234, 238, 0.2);
+}
+
 .navbar {
     font-size: large;
     margin-top: auto;
 }
 
-/* .nav-item {
-    margin-left: 30px;
-} */
+.worksEl {
+    display:block;
+}
+
+.contactEl {
+    display: block;
+}
+
+.linkEl {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px
+}
+
+.gitEl {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px
+}
+
+.emailEl {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px
+}
+
+.passEl {
+    height: 20vh;
+    width: 30vh;
+    margin-right: 12px; 
+    border-radius: 10px;
+    box-shadow: 8px 8px 2px 1px rgba(234, 234, 238, 0.2);
+}
+
+.teamEl {
+    height: 20vh;
+    width: 30vh;
+    margin-right: 12px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 2px 1px rgba(234, 234, 238, 0.2);
+}
+
+.gameEl {
+    height: 20vh;
+    width: 30vh;
+    margin-right: 12px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 2px 1px rgba(234, 234, 238, 0.2);
+}
